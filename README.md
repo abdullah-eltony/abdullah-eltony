@@ -33,7 +33,9 @@
 <tr>
 <td width="50%" align="center">
 <h3>🎬 CineMate</h3>
-<img src="https://github.com/user-attachments/assets/713e7411-7590-4f2b-b5c2-f5ed22ff531c" alt="CineMate Screenshot" width="800" />
+<img width="960" height="2013" alt="cinemate" src="https://github.com/user-attachments/assets/fc4b5ce9-cd5d-4d9e-9cdd-e2924d8ac05b" />
+
+
 <p>
 Personalized movie recommendation platform using hybrid recommender system.  
 <a href="https://github.com/Cinemate-GP">🔗 Repo</a>
@@ -42,7 +44,10 @@ Personalized movie recommendation platform using hybrid recommender system.
 
 <td width="50%" align="center">
 <h3>🛋️ Furnito</h3>
-<img src="https://github.com/user-attachments/assets/082ef5eb-0006-46dd-a455-0e3aa3380e2c" alt="Furnito Screenshot" height="1000" width="100%" />
+<img width="400" height="1200" alt="485995348-082ef5eb-0006-46dd-a455-0e3aa3380e2c" src="https://github.com/user-attachments/assets/4e087b4b-193d-426e-bf86-c42d8a75d52e" />
+
+
+
 <p>
 E-commerce website for home furniture.  
 <b>Tech:</b> React, CSS, Firebase  
