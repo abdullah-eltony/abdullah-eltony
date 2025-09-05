@@ -29,32 +29,29 @@
 
 ## 📌 Featured Projects
 
-## 📌 Featured Projects
-
 <table>
 <tr>
-<td width="33%" align="center" valign="top">
-  <h3>🎬 CineMate</h3>
-  <img src="https://github.com/user-attachments/assets/713e7411-7590-4f2b-b5c2-f5ed22ff531c" 
-       alt="CineMate Screenshot" height="250"/>
-  <p>
-    Personalized movie recommendation platform using hybrid recommender system.  
-    <br/>
-    <a href="https://github.com/Cinemate-GP">🔗 Repo</a>
-  </p>
+<td width="50%" align="center">
+<h3>🎬 CineMate</h3>
+<img src="https://github.com/user-attachments/assets/713e7411-7590-4f2b-b5c2-f5ed22ff531c" alt="CineMate Screenshot" width="800" />
+<p>
+Personalized movie recommendation platform using hybrid recommender system.  
+<a href="https://github.com/Cinemate-GP">🔗 Repo</a>
+</p>
 </td>
 
-<td width="33%" align="center" valign="top">
-  <h3>🛋️ Furnito</h3>
-  <img src="https://github.com/user-attachments/assets/082ef5eb-0006-46dd-a455-0e3aa3380e2c" 
-       alt="Furnito Screenshot" height="250"/>
-  <p>
-    E-commerce website for home furniture.  
-    <br/>
-    <b>Tech:</b> React, CSS, Firebase  
-    <br/>
-    <a href="https://github.com/abdullah-eltony/fu
-
+<td width="50%" align="center">
+<h3>🛋️ Furnito</h3>
+<img src="https://github.com/user-attachments/assets/082ef5eb-0006-46dd-a455-0e3aa3380e2c" alt="Furnito Screenshot" height="1000" width="100%" />
+<p>
+E-commerce website for home furniture.  
+<b>Tech:</b> React, CSS, Firebase  
+<br/>
+<a href="https://github.com/abdullah-eltony/furnito">🔗 Repo</a>
+</p>
+</td>
+</tr>
+</table>
 
 ---
 
