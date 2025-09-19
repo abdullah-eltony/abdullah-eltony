@@ -15,7 +15,7 @@
 ## 🚀 About Me
 - 🎯 **Frontend Developer** specialized in **React & Next.js**  
 - 💡 Interested in building interactive & scalable web applications  
-- 🏆 Currently preparing for **ITI**  
+- 🏆 Deepening my expertise in software development  
 - 🎓 CS Graduate | Graduation Project: **CineMate**
 
 ---
