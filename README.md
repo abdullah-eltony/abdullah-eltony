@@ -6,23 +6,23 @@
 <!-- Typing Effect -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%26+Next.js+Enthusiast;Passionate+about+Building+Scalable+Apps;Always+Learning+New+Things">
+    <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00BFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;React+%26+Next.js+%2B+NestJS;Building+Scalable+Web+Apps;Always+Learning+New+Things">
   </a>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎯 **Frontend Developer** specialized in **React & Next.js**  
-- 💡 Interested in building interactive & scalable web applications  
-- 🏆 Deepening my expertise in software development  
+- 🎯 **Full Stack Engineer** specialized in **React, Next.js & NestJS**
+- 💡 Passionate about building scalable, high-performance web applications  
+- 🏗️ Focused on clean architecture, system design & backend development  
 - 🎓 CS Graduate | Graduation Project: **CineMate**
 
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,nestjs,express,docker,git,github" />
 </p>
 
 ---
@@ -35,7 +35,6 @@
 <h3>🎬 CineMate</h3>
 <img width="960" height="2013" alt="cinemate" src="https://github.com/user-attachments/assets/fc4b5ce9-cd5d-4d9e-9cdd-e2924d8ac05b" />
 
-
 <p>
 Personalized movie recommendation platform using hybrid recommender system.  
 <a href="https://github.com/Cinemate-GP">🔗 Repo</a>
@@ -44,13 +43,11 @@ Personalized movie recommendation platform using hybrid recommender system.
 
 <td width="50%" align="center">
 <h3>🛋️ Furnito</h3>
-<img width="400" height="1200" alt="485995348-082ef5eb-0006-46dd-a455-0e3aa3380e2c" src="https://github.com/user-attachments/assets/4e087b4b-193d-426e-bf86-c42d8a75d52e" />
-
-
+<img width="400" height="1200" alt="furnito" src="https://github.com/user-attachments/assets/4e087b4b-193d-426e-bf86-c42d8a75d52e" />
 
 <p>
 E-commerce website for home furniture.  
-<b>Tech:</b> React, CSS, Firebase  
+<b>Tech:</b> React, CSS, Bootstrap  
 <br/>
 <a href="https://github.com/abdullah-eltony/furnito">🔗 Repo</a>
 </p>
@@ -62,16 +59,16 @@ E-commerce website for home furniture.
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-eltony&theme=tokyonight" alt="streak stats"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullah-eltony&show_icons=true&theme=tokyonight" alt="stats card"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-eltony&layout=compact&theme=tokyonight" alt="top langs"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-eltony&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullah-eltony&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-eltony&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdullah-mohamed-korany-984186374/)">
+  <a href="https://www.linkedin.com/in/abdullah-mohamed-korany-984186374/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff" />
   </a>
   <a href="mailto:abdullahmohamedkorany@gmail.com">
